@@ -219,8 +219,8 @@ public class BlairUUIDDemo {
 	- Aesthetic and Minimalist Design
 	- Help Users Recognise, Diagnose and Recover from Errors
 	- Help and Documentation
-- **Three-Click Rule:** "a user should be able to find anything with no more than three clicks". But be warned:
-	- It was intended for websites where every click had to be a new web browser transaction (i.e. before AJAX).
+- [**Three-Click Rule:**](https://en.wikipedia.org/wiki/Three-click_rule) "a user should be able to find anything with no more than three clicks". But be warned:
+	- Clicking was way worse in the old days, especially for websites, when every click resulted in a new web browser transaction (i.e. before [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming))).
 	- Thanks to touch screens and faster storage media, clicking is much easier than it used to be.
 	- To satisfy the three-click rule, we often introduce clutter!
 
