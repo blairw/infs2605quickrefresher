@@ -344,13 +344,13 @@ Typical defect lifecycle:
 
 Once upon a time, information was excludable and rivalrous (e.g. in the form of paper books). Now information is stored and shared digitally, making it easy for non-paying users to access it (i.e., no longer easily excludable) and making it easy to distribute at almost zero cost (i.e., no longer clearly rivalrous). **Software is not immune to these issues.**
 
-**🎁&nbsp;Solution #1 - Artificial Scarcity.**
+**🎁&nbsp;&nbsp;Solution #1 - Artificial Scarcity.**
 - Information can be treated as excludable and rivalrous again. Traditional goods-based revenue models are protected.
 - Protections are put in place for ideas (using patents), names (using trademarks), and the software code itself (using copyright).
 - Famous cases include Apple v. Microsoft (1994), Oracle v. Google (since 2010).
 - Ongoing case: Epic Games v. Apple (2020).
 
-**🏝&nbsp;Solution #2 - Information as a Public Good.**
+**🏝&nbsp;&nbsp;Solution #2 - Information as a Public Good.**
 - Information treated as non-excludable and non-rival. Revenue models are based on services and other kinds of value-add on top of the public component.
 - Public component is not always public domain: typically Creative Commons or open-source license (e.g. MIT, GPL, Apache, etc.).
 - Examples: VLC Media Player (originally an academic project), Mozilla Firefox (originally funded by AOL, now funded by donations), and GNU/Linux (contributions from various sources).
