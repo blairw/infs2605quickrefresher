@@ -359,8 +359,8 @@ Once upon a time, information was excludable and rivalrous (e.g. in the form of 
 <a name="tipsandtricks"></a>
 ## 💡&nbsp;&nbsp;9. Tips and Tricks
 
-- 📝&nbsp;Sketch out the program before building it in JavaFX, but be aware of what JavaFX can and cannot do.
-- 🏭&nbsp;Make use of tools like the NetBeans code generators!
-- 🏗️&nbsp;Ensure your foundations are solid (data model, basic layouts) before playing with fun extras (CSS, etc).
-- 🎀&nbsp;Fulfil users' underlying needs within the limits of current technology.
-- 🍀&nbsp;Good luck with your studies!
+- 📝&nbsp;&nbsp;Sketch out the program before building it in JavaFX, but be aware of what JavaFX can and cannot do.
+- 🏭&nbsp;&nbsp;Make use of tools like the NetBeans code generators!
+- 🏗️&nbsp;&nbsp;Ensure your foundations are solid (data model, basic layouts) before playing with fun extras (CSS, etc).
+- 🎀&nbsp;&nbsp;Fulfil users' underlying needs within the limits of current technology.
+- 🍀&nbsp;&nbsp;Good luck with your studies!
