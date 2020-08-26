@@ -197,12 +197,12 @@ public class BlairUUIDDemo {
 
 ### Heuristics
 
-- **Fitts’ Law:** Difficulty of moving quickly to a target on a screen depends on the target’s width and how far away it is.
-- **Norman's Three Concepts:** Natural mapping, perceived affordances, and feedback. But be warned:
+- [**Fitts’ Law:**](https://en.wikipedia.org/wiki/Fitts%27s_law#Implications_for_UI_design) Difficulty of moving quickly to a target on a screen depends on the target’s width and how far away it is.
+- [**Norman's Concepts:**](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33) Natural mapping, perceived affordances, and feedback. But be warned:
 	- Natural mapping can mutate into _skeuomorphism_.
 	- Perceived affordances can mutate into _clutter_.
 	- Feedback can mutate into _information overload_.
-- **Nielsen's Ten Heuristics:**
+- [**Nielsen's Ten Heuristics:**](https://en.wikipedia.org/wiki/Heuristic_evaluation#Nielsen)
 	- Visibility of System Status
 	- Match Between System and Real World
 	- User Control and Freedom
@@ -347,14 +347,14 @@ Once upon a time, information was excludable and rivalrous (e.g. in the form of 
 **🎁&nbsp;&nbsp;Solution #1 - Artificial Scarcity.**
 - Information can be treated as excludable and rivalrous again. Traditional goods-based revenue models are protected.
 - Protections are put in place for ideas (using patents), names (using trademarks), and the software code itself (using copyright).
-- Famous cases include Apple v. Microsoft (1994), Oracle v. Google (since 2010).
-- Ongoing case: Epic Games v. Apple (2020).
+- Famous cases include [Apple v. Microsoft](https://en.wikipedia.org/wiki/Apple_Computer,_Inc._v._Microsoft_Corp.) (1995), [Oracle v. Google](https://en.wikipedia.org/wiki/Google_v._Oracle_America) (since 2010, currently delayed due to COVID-19).
+- Ongoing case: [Epic Games v. Apple](https://en.wikipedia.org/wiki/Epic_Games_v._Apple) (2020).
 
 **🏝&nbsp;&nbsp;Solution #2 - Information as a Public Good.**
 - Information treated as non-excludable and non-rival. Revenue models are based on services and other kinds of value-add on top of the public component.
 - Public component is not always public domain: typically Creative Commons or open-source license (e.g. MIT, GPL, Apache, etc.).
 - Examples: VLC Media Player (originally an academic project), Mozilla Firefox (originally funded by AOL, now funded by donations), and GNU/Linux (contributions from various sources).
-- Java was originally conceived as open-source but has been affected by a licensing change (cf. KTH, University of Minnesota, etc.)
+- Java was originally conceived as open-source but has been affected by a licensing change (cf. [KTH](https://intra.kth.se/en/it/programvara-o-system/system/oracle-java-new-license-1.862964), [University of Minnesota](https://it.umn.edu/planned-changes/oracle-java-transition-project), etc.) - please use OpenJDK unless you've paid required licensing fees to Oracle.
 
 <a name="tipsandtricks"></a>
 ## 💡&nbsp;&nbsp;9. Tips and Tricks
