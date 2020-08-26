@@ -7,7 +7,7 @@ These notes will reacquaint you with some concepts that you have previously stud
 
 **Contents:**
 
-- [💻 1. Developer Environment and Version Control](#devenvironment)
+- [💻 1. Code and Version Control](#codeandversioncontrol)
 - [📒 2. Data and Databases](#data)
 - [🍱 3. UI and UX](#uiux)
 - [☕️ 4. JavaFX](#javafx)
@@ -25,8 +25,8 @@ INFS2605 is a programming course taught by the School of Information Systems and
 
 ---
 
-<a name="devenvironment"></a>
-## 💻&nbsp;&nbsp;1. Developer Environment and Version Control
+<a name="codeandversioncontrol"></a>
+## 💻&nbsp;&nbsp;1. Code and Version Control
 
 Where to store your code?
 - **Your laptop:** Is vulnerable to device loss/damage and cannot facilitate team collaboration.
