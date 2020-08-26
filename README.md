@@ -3,6 +3,8 @@ This is a quick refresher of [INFS2605](https://www.business.unsw.edu.au/degrees
 
 These notes will reacquaint you with some concepts that you have previously studied in depth, but these notes will not fully explain these concepts for you. For that, please refer to your notes from when you studied INFS2605.
 
+&mdash;
+
 **Contents:**
 
 - [💻 1. Developer Environment and Version Control](#devenvironment)
@@ -15,7 +17,11 @@ These notes will reacquaint you with some concepts that you have previously stud
 - [💭 8. Intellectual Property](#intellectualproperty)
 - [💡 9. Tips and Tricks](#tipsandtricks)
 
-_INFS2605 is a programming course taught by the School of Information Systems and Technology Management (SISTM) at UNSW Business School. We pride ourselves on high-quality student-centric teaching. To find out more about us, please see the [UNSW SISTM website](https://www.business.unsw.edu.au/about/schools/information-systems-technology-management)._
+_(Itemised based on concepts, not teaching weeks.)_
+
+&mdash;
+
+INFS2605 is a programming course taught by the School of Information Systems and Technology Management (SISTM) at UNSW Business School. We pride ourselves on high-quality student-centric teaching. To find out more about us, please see the [UNSW SISTM website](https://www.business.unsw.edu.au/about/schools/information-systems-technology-management).
 
 ---
 
