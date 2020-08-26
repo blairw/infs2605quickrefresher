@@ -1,5 +1,5 @@
 # INFS2605 Quick Refresher
-This is a quick refresher of INFS2605 for UNSW students who are taking later courses that assume INFS2605 as prerequisite knowledge, but might need some help jogging their memory. 😅
+This is a quick refresher of [INFS2605](https://www.business.unsw.edu.au/degrees-courses/course-outlines/INFS2605) (_Intermediate Business Programming_) for UNSW students who are taking later courses that assume INFS2605 as prerequisite knowledge, but might need some help jogging their memory. 😅
 
 These notes will reacquaint you with some concepts that you have previously studied in depth, but these notes will not fully explain these concepts for you. For that, please refer to your notes from when you studied INFS2605.
 
