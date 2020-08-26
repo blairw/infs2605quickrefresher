@@ -17,6 +17,10 @@ These notes will reacquaint you with some concepts that you have previously stud
 
 _(Itemised based on concepts, not teaching weeks.)_
 
+&nbsp;
+
+Authors: [Blair Wang](https://blair.wang/) <small>(UNSW Business School)</small>. See also the [GitHub repo](https://github.com/blairw/infs2605quickrefresher).
+
 ---
 
 <a name="codeandversioncontrol"></a>
