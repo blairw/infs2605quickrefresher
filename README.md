@@ -26,6 +26,8 @@ Authors: [Blair Wang](https://blair.wang/) <small>(UNSW Business School)</small>
 <a name="codeandversioncontrol"></a>
 ## 💻&nbsp;&nbsp;1. Code and Version Control
 
+**If you're using NetBeans 11, you'll need to set it up using the steps documented at [infs2605fxstarterkit](https://github.com/blairw/infs2605fxstarterkit).**
+
 Where to store your code?
 - **Your laptop:** Is vulnerable to device loss/damage and cannot facilitate team collaboration.
 - **USB flash storage:** Keeping things in sync is difficult.
